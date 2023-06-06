@@ -2,7 +2,7 @@
 
 ## How to use Object Builder Variable
 
-TBD
+With Object Builder Variable you can create an object.
 
 ## Open Source
 
